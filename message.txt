@@ -1,2 +1,1 @@
-Add message.txt in feature-greeting branch
-
+Message from feature branch
